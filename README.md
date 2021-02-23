@@ -19,4 +19,4 @@ CleanAPI has been built with the following leading principles:
 - Beginner Friendly
 
 ## Features
-- API Chain
+- **API Chain**: CleanAPI combines multiple API services for specials needs. You can choose a workflow script from hundreds of ready-to-use API Chain scripts and start using only in a few minutes. You can also create your own workflows and combine it to other API Chain scripts.
