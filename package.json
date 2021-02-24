@@ -1,0 +1,34 @@
+{
+  "name": "cleanapi",
+  "version": "1.0.0",
+  "description": "CleanAPI Core - All in one, clean, progressive, easy to use API platform",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fkacar/cleanapi.git"
+  },
+  "keywords": [
+    "cleanapi",
+    "all",
+    "in",
+    "one",
+    "api",
+    "wrapper",
+    "api",
+    "integration",
+    "platform"
+  ],
+  "author": "Fatih Kaçar",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/fkacar/cleanapi/issues"
+  },
+  "homepage": "https://github.com/fkacar/cleanapi#readme",
+  "dependencies": {
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
