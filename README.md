@@ -26,7 +26,7 @@ CleanAPI has been built with the following leading principles:
 - **Performance**: CleanAPI handles load with ease by scaling.
 - **Plugins**: Extendable architecture for adding functionality to CleanPI and APIs.
 
-## Features
+## Distributions
 CleanAPI comes in many shapes. While this repository contains its core's source code, other repos are also under active development:
 - [CleanAPI Node SDK](https://github.com/fkacar/cleanapi-node-sdk): Under development.
 - [CleanAPI Golang SDK](https://github.com/fkacar/cleanapi-golang-sdk): Under development.
