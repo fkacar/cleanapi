@@ -56,7 +56,7 @@ $ cd cleanapi/
 # you might want to switch to the development branch. See CONTRIBUTING.md
 $ git checkout next
 
-# install the Lua sources
+# install the dependencies
 $ yarn install
 # or
 $ npm install
