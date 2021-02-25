@@ -47,12 +47,12 @@ https://cleanapi.io/cleanapi-enterprise-edition/ or contact us at
 There are several channels where you can get answers from the community
 or the maintainers of this project:
 
-- Our public forum, [CleanAPI Nation](https://discuss.konghq.com), is great for
+- Our public forum, [CleanAPI Nation](https://discuss.cleanapi.io), is great for
   asking questions, giving advice, and staying up-to-date with the latest
-  announcements. Kong Nation is frequented by Kong maintainers.
+  announcements. CleanAPI Nation is frequented by CleanAPI maintainers.
 
 **Please avoid opening GitHub issues for general questions or help**, as those
-should be reserved for actual bug reports. The Kong community is welcoming and
+should be reserved for actual bug reports. The CleanAPI community is welcoming and
 more than willing to assist you on those channels!
 
 [Back to TOC](#table-of-contents)
@@ -185,7 +185,7 @@ not forget to include your name if you are an external contributor. :wink:
 We work on two branches: `master`, where non-breaking changes land, and `next`,
 where important features or breaking changes land in-between major releases.
 
-When contributing to Kong, this distinction is important. Please ensure that
+When contributing to CleanAPI, this distinction is important. Please ensure that
 you are basing your work on top of the appropriate branch, it might save you
 some time down the road!
 
@@ -333,7 +333,7 @@ Or:
 ```
 tests(proxy) add a new test case for URI encoding
 
-When proxying upstream, the URI sent by Kong should be the one
+When proxying upstream, the URI sent by CleanAPI should be the one
 received from the client, even if it was percent-encoded.
 
 This adds a new test case which was missing, to ensure it is
